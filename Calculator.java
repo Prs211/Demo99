@@ -16,7 +16,7 @@ public class Calculator
 	   
    }
    void display()
-   {   int a=11;
+   {   int a=12;// local variable
 	   System.out.println(a); //10
 	   System.out.println(this.a );//100
    }
